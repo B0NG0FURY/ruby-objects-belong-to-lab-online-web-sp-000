@@ -6,3 +6,5 @@ class Artist
     @genre = genre
   end
 end
+
+black_sabbath = Artist.new("Black Sabbath", "rock")
