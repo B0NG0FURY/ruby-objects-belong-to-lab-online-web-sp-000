@@ -6,5 +6,5 @@ class Song
   end
 end
 
-iron_man = Song.new("Iron Man")
+ = Song.new("Iron Man")
 iron_man.artist = black_sabbath
