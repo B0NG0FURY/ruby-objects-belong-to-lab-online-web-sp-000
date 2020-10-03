@@ -6,5 +6,5 @@ class Song
   end
 end
 
- = Song.new("Iron Man")
-iron_man.artist = black_sabbath
+seven_eleven = Song.new("7/11")
+iron_man.artist = beyonce
