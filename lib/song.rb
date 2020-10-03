@@ -5,6 +5,3 @@ class Song
     @title = title
   end
 end
-
-seven_eleven = Song.new("7/11")
-seven_eleven.artist = beyonce
