@@ -6,3 +6,5 @@ class Song
     @artist = artist
   end
 end
+
+iron_man = Song.new("Iron Man", )
