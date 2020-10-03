@@ -7,4 +7,4 @@ class Artist
   end
 end
 
-black_sabbath = Artist.new("Black Sabbath", "rock")
+beyonce = Artist.new("Beyonce", "rock")
